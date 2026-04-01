@@ -33,3 +33,5 @@ dist-ssr
 # Uploaded Media and AI Data
 uploads/
 .gemini/
+
+node_modules/
